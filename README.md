@@ -1,6 +1,6 @@
 # Project FOSSBots - Jenny (SlipperyT) Chatbot
 "Because the people of the GNU and FOSS communities should enjoy Chatbots too!"
-#### // !!! Remember to give credit! \\\
+#### // !!! Remember to give credit! !!! \\\
 
 - Version 1.1 - Public Version
 - SAFE = SEMI
